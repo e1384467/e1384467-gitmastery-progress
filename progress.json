@@ -230,14 +230,5 @@
       "Great work traversing the revision history!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "sensors-reset",
-    "started_at": 1768719813.663088,
-    "completed_at": 1768719817.09193,
-    "comments": [
-      "The head commit should be the commit from Jan 11."
-    ],
-    "status": "Incomplete"
   }
 ]
